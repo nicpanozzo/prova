@@ -1961,3 +1961,5 @@ const Chess = function (fen) {
 
 
 console.log("PROVA");
+
+document.board = Chess();
