@@ -1964,3 +1964,6 @@ console.log("PROVA");
 
 document.board = new Chess();
 window.board = new Chess();
+
+
+return new Chess();
